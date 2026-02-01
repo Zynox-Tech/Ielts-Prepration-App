@@ -1,0 +1,2 @@
+-dontwarn com.microsoft.onnxruntime.**
+-keep class com.microsoft.onnxruntime.** { *; }
