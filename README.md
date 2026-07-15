@@ -206,6 +206,36 @@ Students can access interactive quizzes to:
 
 ---
 
+# Application Screenshots
+
+Explore the modern mobile interface and learning experience of the **AI-Powered IELTS Preparation App**.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80e91914-650e-4134-b9b3-0d0e01d55e3c" alt="IELTS Application Screenshot 1" width="300" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/33233d0d-d3dc-4e91-b53c-c703843c60a4" alt="IELTS Application Screenshot 2" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c0bcd05a-b0cd-4baa-aa03-b41b85ff000c" alt="IELTS Application Screenshot 3" width="300" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/aa89bd95-9273-4e4f-9dd7-ea0d38916de4" alt="IELTS Application Screenshot 4" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/51f68cfa-6396-4876-ad48-11c2c7fc39d4" alt="IELTS Application Screenshot 5" width="300" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/e0e13f46-b619-4df8-8c90-ad21faf923fb" alt="IELTS Application Screenshot 6" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6dae2e03-63a5-4f24-954e-f5f50d3b6999" alt="IELTS Application Screenshot 7" width="300" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/ec4c3fb5-578a-4bc8-86fa-d9d9582607d3" alt="IELTS Application Screenshot 8" width="300" />
+</p>
+
+---
+
 # Technology Stack
 
 ## Application Development
@@ -569,6 +599,6 @@ For custom software solutions and technology partnerships:
 
 ### Developed by **Zynox Tech**
 
-Building Modern Technology Solutions for Businesses and Organizations
+**Building Modern Technology Solutions for Businesses and Organizations**
 
 </div>
